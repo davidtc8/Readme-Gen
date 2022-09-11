@@ -1,0 +1,22 @@
+{
+  "name": "readme_gen",
+  "version": "1.0.0",
+  "description": "Script that can generate e readme file.",
+  "main": "readme_gen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidtc8/Readme-Gen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidtc8/Readme-Gen/issues"
+  },
+  "homepage": "https://github.com/davidtc8/Readme-Gen#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
