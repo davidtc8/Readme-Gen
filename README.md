@@ -16,3 +16,5 @@ Script that can generate a readme file.
 - [x] Javascript 🖥️
 
 ## Video with instructions
+https://user-images.githubusercontent.com/71146674/189770287-a10ec966-6b46-45d7-b722-24207552efcf.mp4
+
