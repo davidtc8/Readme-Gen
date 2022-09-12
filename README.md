@@ -1,5 +1,5 @@
 # Readme-Gen
-Script that can generate e readme file.
+Script that can generate a readme file.
 
 ## Folder Structure 🗺️:
 - Inside the "readme-test" folder you'll find:
