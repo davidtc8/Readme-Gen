@@ -77,7 +77,6 @@ inquirer.prompt( [
             }
         }
     },
-    // TODO: Pending to add a license as a list of options
     {
         type: 'list',
         message: "Select a license",
