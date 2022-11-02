@@ -133,9 +133,10 @@ inquirer.prompt( [
         readmeFile.once('open', function(fd) {
             // ------ Description Section ------
             readmeFile.write(`# ${projectName}\n`); // Project Name
-            readmeFile.write(`![license image](https://img.shields.io/badge/license-${license}-brightgreen.svg)`); // Project Name
             readmeFile.write(`\n`);
             readmeFile.write(`${projectDescription}\n`); //Descriptions below the Project Name
+            readmeFile.write(`\n`);
+            readmeFile.write(`# ![license image](https://img.shields.io/badge/license-${license}-brightgreen.svg)`); // Project Name
             // ------ Table of content Section ------
             readmeFile.write(`# Table of Contents\n`); 
             readmeFile.write(`- [Go to installation section](#-installation)\n`); 
